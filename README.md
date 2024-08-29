@@ -32,3 +32,7 @@ The dashboard includes the following key visualizations:
 - **Gender Salary Disparity**: The gender split in average salaries shows a near-even distribution, though slight variations exist.
 - **Geographical Representation**: The majority of respondents are from the United States, followed by India, the UK, and Canada.
 - **Programming Language Preferences**: Python is the most popular language among data professionals, especially Data Scientists.
+
+## 📊 Dashboard
+
+![Data Professional Survey Breakdown Dashboard](https://github.com/muskaanagg20/Survey-Data-Analysis-PowerBI/blob/main/Survey%20Analysis.PNG)
