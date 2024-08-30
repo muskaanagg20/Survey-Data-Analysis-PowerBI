@@ -1,4 +1,8 @@
-# 📊 Data Professional Survey Breakdown - Power BI Dashboard
+# 📈 Data Professional Survey Breakdown - Power BI Dashboard
+
+## 📊 Dashboard
+
+![Data Professional Survey Breakdown Dashboard](https://github.com/muskaanagg20/Survey-Data-Analysis-PowerBI/blob/main/Survey%20Analysis.PNG)
 
 ## 📝 Overview
 This project involves a comprehensive analysis of survey data from data professionals, including Data Scientists, Data Engineers, and other related roles. The dashboard created in Power BI provides insights into average salaries, job satisfaction, work-life balance, and demographic breakdowns. The analysis aims to help understand the current landscape of the data profession and the factors influencing job satisfaction and salary trends.
@@ -6,7 +10,7 @@ This project involves a comprehensive analysis of survey data from data professi
 ## 📂 Dataset Description
 The dataset used in this project is titled **"Data Professional Survey"**, containing 630 entries and 28 columns. It includes detailed responses from data professionals about their job roles, salaries, demographics, and job satisfaction levels.
 
-### 📊 Key Columns:
+### ⭐ Key Columns:
 - **Unique ID**: Identifier for each respondent.
 - **Job Title**: Role of the respondent (e.g., Data Scientist, Data Engineer).
 - **Current Yearly Salary (in USD)**: Salary details for each respondent.
@@ -20,7 +24,7 @@ Data was cleaned and transformed using Power Query in Power BI. Key transformati
 - Formatting salary data to numerical values.
 - Categorizing job titles and normalizing demographic data for visualization purposes.
 
-## 📈 Visualizations
+## 📍 Visualizations
 The dashboard includes the following key visualizations:
 - **Average Salary by Job Title**: A horizontal bar chart showing average salaries for various job roles.
 - **Average Salary by Gender**: A pie chart illustrating the salary distribution between male and female respondents.
@@ -33,6 +37,4 @@ The dashboard includes the following key visualizations:
 - **Geographical Representation**: The majority of respondents are from the United States, followed by India, the UK, and Canada.
 - **Programming Language Preferences**: Python is the most popular language among data professionals, especially Data Scientists.
 
-## 📊 Dashboard
 
-![Data Professional Survey Breakdown Dashboard](https://github.com/muskaanagg20/Survey-Data-Analysis-PowerBI/blob/main/Survey%20Analysis.PNG)
